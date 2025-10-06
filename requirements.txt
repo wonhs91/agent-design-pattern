@@ -1,0 +1,6 @@
+ipykernel
+langchain_openai
+crewai
+python-dotenv
+langchain_google_genai
+google.adk
